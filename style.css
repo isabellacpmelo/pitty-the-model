@@ -1,0 +1,39 @@
+body {
+    background-color: #e6ffe6 ;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 100%;
+}
+
+#menu {
+    background:	#a6cab6;
+    padding: 18px;
+}
+
+a {
+    color:#006400;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo {
+    padding: 10px;
+    background-color: FFF5EE;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+h1 {
+    color: #228B22;
+    font-size: 1.2em;
+}
+
+.imagens {
+    align-content: center;
+    border: 3px solid #FFDAB9;
+}
